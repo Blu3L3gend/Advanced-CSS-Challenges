@@ -1,0 +1,97 @@
+<!DOCTYPE html>
+<html lang="en">
+  <head>
+    <meta charset="UTF-8" />
+    <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+    <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <link rel="stylesheet" href="style.css"/>
+    <title>Document</title>
+  <head>
+    <h1>Electronics</h1>
+  </head>
+  <body>
+   
+    <div class="Grid">
+        <!--Nintendo switches-->
+     
+        <div class="cards">
+        <h2>Gaming Consoles</h2>
+        <a href="https://www.amazon.com/Nintendo-Switch-Neon-Blue-Joy%E2%80%91/dp/B07VGRJDFY/ref=sr_1_1_sspa?crid=X0Z97DENVNVR&keywords=nintendo%2Bswitch%2Bconsole&qid=1662955331&sprefix=ninted%2Caps%2C116&sr=8-1-spons&ufe=app_do%3Aamzn1.fos.c3015c4a-46bb-44b9-81a4-dc28e6d374b3&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUExUTEwMlFVUjA0WEY0JmVuY3J5cHRlZElkPUEwMTU1MTc0M0dYVUFEUDVKVlQ0TyZlbmNyeXB0ZWRBZElkPUEwNzUxNjU1MVM2Wk1PNk8xRDZaSSZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1">
+        <img src="ND.png" alt="item"></a>
+        <h4>Nintendo Switch, Xbox, Playstaion</h4>
+        <p class="price">$299-$300</p>
+        <button class="button">Order Now</button>
+        </div>
+
+       <!--Item 2-->
+        <div class="cards">
+        <h2>Gaming Headphones</h2>
+        <a href="https://www.amazon.com/HyperX-Cloud-Gaming-Headset-KHX-HSCP-GM/dp/B00SAYCVTQ/ref=sr_1_1_sspa?crid=20XRJYZR7UIEG&keywords=hyperx%2Bheadphones&qid=1662958468&sprefix=hyper%2Bheadphones%2Caps%2C79&sr=8-1-spons&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyTzUzWEUwQjhBSTY0JmVuY3J5cHRlZElkPUEwMTA1MzYyM0tOWEs5V0FGMk9URyZlbmNyeXB0ZWRBZElkPUEwODczNjMwMjlITUJaRkROTDRUTCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU&th=1">
+        <img src="hyperx.png" alt="item"></a>
+        <h4>Hyperx,Beats,Bose</h4>
+        <p class="price">$44-$50</p>
+        <button class="button">Order Now</button>
+        </div>
+
+         <!--item 3-->
+         <div class="cards">
+        <h2>Gaming PCs/Desktops</h2>
+        <a href="https://www.amazon.com/Computer-TechMagnet-Siwa-Wireless-Professional/dp/B0B8S8LQTL/ref=sr_1_12_sspa?keywords=pcs&qid=1662982537&s=pc&sr=1-12-spons&ufe=app_do%3Aamzn1.fos.c3015c4a-46bb-44b9-81a4-dc28e6d374b3&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyVUpDV084VkUwTDMyJmVuY3J5cHRlZElkPUEwMjkwNTk0MUFSWTA2MU5QVEZVUSZlbmNyeXB0ZWRBZElkPUEwOTQwNzY5Q1BBVTVZVkxCSEpVJndpZGdldE5hbWU9c3BfbXRmJmFjdGlvbj1jbGlja1JlZGlyZWN0JmRvTm90TG9nQ2xpY2s9dHJ1ZQ==">
+        <img src="gamingpc.png" alt="item"></a>
+        <h4>Alienware, Intel, Lenovo</h4>
+        <p class="price">$1,916</p>
+        <button class="button">Order Now</button>
+        </div>
+
+           <!--item 4-->
+        <div class="cards">
+        <h2>Laptops</h2>
+        <a href="https://www.amazon.com/2022-Apple-MacBook-Laptop-chip/dp/B0B3C8XMXM/ref=sr_1_2_sspa?keywords=laptops&qid=1662983329&s=pc&sr=1-2-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyMlRPQVdBRDRCTlpBJmVuY3J5cHRlZElkPUEwMzIxNDU0MUs3MVRVTEtQMzVBWCZlbmNyeXB0ZWRBZElkPUEwNzMzOTA0M1M1S0ZQMlhGT08yTCZ3aWRnZXROYW1lPXNwX2F0ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=">
+        <img src="laptop.png" alt="item"></a>
+        <h4>Macbook,Lenovo, Alienware</h4>
+        <p class="price">$929-$1,399</p>
+        <button class="button">Order Now</button>
+        </div>
+
+             <!--item 5-->
+        <div class="cards">
+        <h2>Tablets</h2>
+        <a href="https://www.amazon.com/dp/B0932B5NVD">
+        <img src="Tablet.png" alt="item"></a>
+        <h4>Ipad Pro, Samsung, Kindle</h4>
+        <p class="price">$149-$949</p>
+        <button class="button">Order Now</button>
+        </div>
+
+               <!--item 6-->
+        <div class="cards">
+        <h2>Phones</h2>
+        <a href="https://www.amazon.com/Apple-iPhone-128GB-Pacific-Blue/dp/B08PMP778K/ref=sr_1_4?crid=1YLVXME0L1GIS&keywords=iphone%2B12%2Bpro%2Bmax&qid=1662984319&s=electronics&sprefix=iphone%2Celectronics%2C79&sr=1-4&th=1">
+        <img src="phone.png" alt="item"></a>
+        <h4>Iphones, Samsung Galaxy</h4>
+        <p class="price">$889-$999</p>
+        <button class="button">Order Now</button>
+        </div>
+
+                 <!--item 7-->
+        <div class="cards">
+        <h2>Tvs</h2>
+        <a href="https://www.amazon.com/amazon-fire-tv-55-inch-omni-series-4k-smart-tv/dp/B08P3QVFMK/ref=d_p13n_ds_purchase_sim_1p_dp_desktop_sccl_1_1/140-2834053-8747058?pd_rd_w=muBFq&content-id=amzn1.sym.ddb940e8-1591-41b9-a73c-34b83bbd4ad1&pf_rd_p=ddb940e8-1591-41b9-a73c-34b83bbd4ad1&pf_rd_r=AG8HS77CGGNA64Y8XA80&pd_rd_wg=zOcaR&pd_rd_r=5b1cbe38-3d09-4e2f-ba8c-7e785860382c&pd_rd_i=B08P3QVFMK&psc=1">
+        <img src="Tvs.png" alt="item"></a>
+        <h4>Samsung, Amazon Fire, Roku</h4>
+        <p class="price">$299-$509</p>
+        <button class="button">Order Now</button>
+        </div> 
+
+                   <!--item 8-->
+        <div class="cards">
+        <h2>Electronic/Acessories</h2>
+        <a href="https://www.amazon.com/Protector-Extension-Outlets-Extender-Essential/dp/B0B1DFBXQ9/ref=sr_1_12_sspa?crid=2RN0MF9J5XM2N&keywords=electronic+accessories&qid=1662984899&s=amazon-devices&sprefix=electronic+accessories%2Camazon-devices%2C66&sr=1-12-spons&psc=1&spLa=ZW5jcnlwdGVkUXVhbGlmaWVyPUEyN1I2Mlk0MVdKVElEJmVuY3J5cHRlZElkPUEwODk2NDU1MVcwNjJQMjI0R003NiZlbmNyeXB0ZWRBZElkPUEwMzcyNTYxMTlRTVRKVTFEMkZLSiZ3aWRnZXROYW1lPXNwX210ZiZhY3Rpb249Y2xpY2tSZWRpcmVjdCZkb05vdExvZ0NsaWNrPXRydWU=">
+        <img src="electronicaccesory.png" alt="item"></a>
+        <h4>Extention Cords, Carrying Cases</h4>
+        <p class="price">$18-$30</p>
+        <button class="button">Order Now</button>
+        </div>
+        </div>
+    </body>
+</html>
